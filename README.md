@@ -50,5 +50,5 @@ Este projeto realiza uma análise exploratória dos dados de clientes da Telecom
 2. Use algum notebook online
 3. instale as dependências
 ```bash
-git clone https://github.com/seu-usuario/telecom-churn-analysis.git
+git clone https://github.com/telecom-churn-analysis.git
 pip install pandas numpy matplotlib seaborn
